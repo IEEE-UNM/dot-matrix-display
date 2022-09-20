@@ -1,2 +1,2 @@
 # Dot Matrix Display
-Code Dot Matrix Display
+Code for Dot Matrix Display
